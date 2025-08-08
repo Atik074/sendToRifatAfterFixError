@@ -1,4 +1,4 @@
-open app folder.then click JobItem folder and open job item file.just copy the code
+open app folder.then JobItem folder and open job item file.just copy the code
 
 Correction Your code:
 where you mapped filtedteredJobs data ,go there and just remove this filteredJobs.map .
